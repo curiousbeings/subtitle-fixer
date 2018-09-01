@@ -2,6 +2,7 @@
 Fixes subtitle files(.srt files) by delaying/hastening subtitles and creating a new edited file
 What you need?
 1. Python 2.7.15: Download from https://www.python.org/downloads/release/python-2715/
+(Check if you have python by running this command on cmd: "python --version")
 How to run:
 1. Clone the repository 
 2. Run the interface.py file
